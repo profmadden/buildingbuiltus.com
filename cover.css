@@ -48,3 +48,17 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+@font-face {
+    font-family: flux;
+    src: url(flux.ttf);
+}
+p {
+    font-family: flux;
+}
+h3 {
+    font-family: flux;
+}
+h1 {
+    font-family: flux;
+}
